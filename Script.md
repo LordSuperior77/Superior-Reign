@@ -3,5 +3,12 @@
 
 >There was once a king
 
->who ruled o'er the land of shadows
+>Who ruled o'er the land of shadows
 
+>With his elemental rings,
+
+>He ruled with wisdom and power
+
+>An' brought his land out of pain
+
+>
