@@ -6,3 +6,6 @@ This game is about a ruler (king? idk) trying to reclaim his throne, powers and 
 
 # Releases
 Current releases are [here.](https://github.com/LordSuperior77/Superior-Reign/releases)
+
+# Issues
+For quick access to problems and to-dos, click [here}
