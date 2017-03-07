@@ -11,4 +11,10 @@
 
 >An' brought his land out of pain
 
+>Little did he know 
+
+>In a far of land
+
+>In a place called Kagaman
+
 >
