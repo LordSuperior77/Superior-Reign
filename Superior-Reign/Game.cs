@@ -37,6 +37,8 @@ namespace Superior_Reign
             GL.MatrixMode(MatrixMode.Modelview);
 
             GL.LoadMatrix(ref modelview);
+
+            // Code from here
             GL.Begin(BeginMode.Triangles);
             GL.Color3(1.0f, 0.0f, 0.0f);
             GL.Vertex3(-1.0f, -1.0f, 4.0f);
@@ -48,6 +50,8 @@ namespace Superior_Reign
             GL.Vertex3(0.0f, 1.0f, 4.0f);
 
             GL.End();
+            // to here is test code
+
             SwapBuffers();
             
         }
