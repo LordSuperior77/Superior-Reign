@@ -11,3 +11,5 @@ Current releases are [here.](https://github.com/LordSuperior77/Superior-Reign/re
 # Issues
 For quick access to problems and to-dos, click [here.](https://github.com/LordSuperior77/Superior-Reign/issues)
 
+# Script
+[HERE BILLY](https://playbackdevs.github.io/Superior-Reign/Script)
