@@ -1,3 +1,4 @@
+<title>Superior Reign</title>
 # Superior Reign
 This is a game built using C# and OpenTK. I hope you enjoy!
 
@@ -9,3 +10,4 @@ Current releases are [here.](https://github.com/LordSuperior77/Superior-Reign/re
 
 # Issues
 For quick access to problems and to-dos, click [here.](https://github.com/LordSuperior77/Superior-Reign/issues)
+
