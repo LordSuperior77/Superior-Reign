@@ -1,4 +1,4 @@
-<title>Superior Reign</title>
+
 # Superior Reign
 This is a game built using C# and OpenTK. I hope you enjoy!
 
