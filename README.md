@@ -15,4 +15,4 @@ For quick access to problems and to-dos, click [here.](https://github.com/LordSu
 [HERE BILLY](https://playbackdevs.github.io/Superior-Reign/Script)
 
 # For New Members
-If you just joined PlaybackDevs and you're ready to hop on into the juicy stuff [click here]https://github.com/PlaybackDevs/Superior-Reign.wiki.git
+If you just joined PlaybackDevs and you're ready to hop on into the juicy stuff [click here](https://github.com/PlaybackDevs/Superior-Reign.wiki.git)
